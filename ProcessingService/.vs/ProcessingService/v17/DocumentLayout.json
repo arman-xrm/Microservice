@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ProcessingService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAB103F-EFF1-4B21-B73C-24D0837D64F0}|ProcessingService\\ProcessingService.csproj|c:\\users\\user\\source\\repos\\processingservice\\processingservice\\services\\integration\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAB103F-EFF1-4B21-B73C-24D0837D64F0}|ProcessingService\\ProcessingService.csproj|solutionrelative:processingservice\\services\\integration\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAB103F-EFF1-4B21-B73C-24D0837D64F0}|ProcessingService\\ProcessingService.csproj|c:\\users\\user\\source\\repos\\processingservice\\processingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAB103F-EFF1-4B21-B73C-24D0837D64F0}|ProcessingService\\ProcessingService.csproj|solutionrelative:processingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAB103F-EFF1-4B21-B73C-24D0837D64F0}|ProcessingService\\ProcessingService.csproj|c:\\users\\user\\source\\repos\\processingservice\\processingservice\\services\\integration\\processingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAB103F-EFF1-4B21-B73C-24D0837D64F0}|ProcessingService\\ProcessingService.csproj|solutionrelative:processingservice\\services\\integration\\processingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAB103F-EFF1-4B21-B73C-24D0837D64F0}|ProcessingService\\ProcessingService.csproj|c:\\users\\user\\source\\repos\\processingservice\\processingservice\\services\\interface\\iprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAB103F-EFF1-4B21-B73C-24D0837D64F0}|ProcessingService\\ProcessingService.csproj|solutionrelative:processingservice\\services\\interface\\iprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAB103F-EFF1-4B21-B73C-24D0837D64F0}|ProcessingService\\ProcessingService.csproj|c:\\users\\user\\source\\repos\\processingservice\\processingservice\\models\\requestmodels\\inputrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAB103F-EFF1-4B21-B73C-24D0837D64F0}|ProcessingService\\ProcessingService.csproj|solutionrelative:processingservice\\models\\requestmodels\\inputrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAB103F-EFF1-4B21-B73C-24D0837D64F0}|ProcessingService\\ProcessingService.csproj|c:\\users\\user\\source\\repos\\processingservice\\processingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FAB103F-EFF1-4B21-B73C-24D0837D64F0}|ProcessingService\\ProcessingService.csproj|solutionrelative:processingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMqConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProcessingService\\ProcessingService\\Services\\Integration\\RabbitMqConsumer.cs",
+              "RelativeDocumentMoniker": "ProcessingService\\Services\\Integration\\RabbitMqConsumer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProcessingService\\ProcessingService\\Services\\Integration\\RabbitMqConsumer.cs",
+              "RelativeToolTip": "ProcessingService\\Services\\Integration\\RabbitMqConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:27:22.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProcessingService\\ProcessingService\\Models\\RequestModels\\InputRequestModel.cs",
+              "RelativeDocumentMoniker": "ProcessingService\\Models\\RequestModels\\InputRequestModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProcessingService\\ProcessingService\\Models\\RequestModels\\InputRequestModel.cs",
+              "RelativeToolTip": "ProcessingService\\Models\\RequestModels\\InputRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:26:30.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProcessingService\\ProcessingService\\Services\\Interface\\IProcessingService.cs",
+              "RelativeDocumentMoniker": "ProcessingService\\Services\\Interface\\IProcessingService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProcessingService\\ProcessingService\\Services\\Interface\\IProcessingService.cs",
+              "RelativeToolTip": "ProcessingService\\Services\\Interface\\IProcessingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:25:43.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProcessingService\\ProcessingService\\Services\\Integration\\ProcessingService.cs",
+              "RelativeDocumentMoniker": "ProcessingService\\Services\\Integration\\ProcessingService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProcessingService\\ProcessingService\\Services\\Integration\\ProcessingService.cs",
+              "RelativeToolTip": "ProcessingService\\Services\\Integration\\ProcessingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:24:57.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProcessingService\\ProcessingService\\Program.cs",
+              "RelativeDocumentMoniker": "ProcessingService\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProcessingService\\ProcessingService\\Program.cs",
+              "RelativeToolTip": "ProcessingService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:23:47.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProcessingService\\ProcessingService\\appsettings.json",
+              "RelativeDocumentMoniker": "ProcessingService\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProcessingService\\ProcessingService\\appsettings.json",
+              "RelativeToolTip": "ProcessingService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T16:23:01.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

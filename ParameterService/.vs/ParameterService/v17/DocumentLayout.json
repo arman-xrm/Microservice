@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ParameterService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|c:\\users\\user\\source\\repos\\parameterservice\\parameterservice\\services\\integration\\inputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|solutionrelative:parameterservice\\services\\integration\\inputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|c:\\users\\user\\source\\repos\\parameterservice\\parameterservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|solutionrelative:parameterservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|c:\\users\\user\\source\\repos\\parameterservice\\parameterservice\\services\\interface\\iinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|solutionrelative:parameterservice\\services\\interface\\iinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|c:\\users\\user\\source\\repos\\parameterservice\\parameterservice\\controllers\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|solutionrelative:parameterservice\\controllers\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|c:\\users\\user\\source\\repos\\parameterservice\\parameterservice\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|solutionrelative:parameterservice\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|c:\\users\\user\\source\\repos\\parameterservice\\parameterservice\\models\\requestmodels\\inputrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|solutionrelative:parameterservice\\models\\requestmodels\\inputrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|c:\\users\\user\\source\\repos\\parameterservice\\parameterservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F05D2D4-8FC7-4154-91CF-1CCA7B3B0C34}|ParameterService\\ParameterService.csproj|solutionrelative:parameterservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\Controllers\\InputController.cs",
+              "RelativeDocumentMoniker": "ParameterService\\Controllers\\InputController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\Controllers\\InputController.cs",
+              "RelativeToolTip": "ParameterService\\Controllers\\InputController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:15:19.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "ParameterService\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "ParameterService\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:14:42.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\Models\\RequestModels\\InputRequestModel.cs",
+              "RelativeDocumentMoniker": "ParameterService\\Models\\RequestModels\\InputRequestModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\Models\\RequestModels\\InputRequestModel.cs",
+              "RelativeToolTip": "ParameterService\\Models\\RequestModels\\InputRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:13:13.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IInputService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\Services\\Interface\\IInputService.cs",
+              "RelativeDocumentMoniker": "ParameterService\\Services\\Interface\\IInputService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\Services\\Interface\\IInputService.cs",
+              "RelativeToolTip": "ParameterService\\Services\\Interface\\IInputService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:12:11.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\Services\\Integration\\InputService.cs",
+              "RelativeDocumentMoniker": "ParameterService\\Services\\Integration\\InputService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\Services\\Integration\\InputService.cs",
+              "RelativeToolTip": "ParameterService\\Services\\Integration\\InputService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:11:44.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\Program.cs",
+              "RelativeDocumentMoniker": "ParameterService\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\Program.cs",
+              "RelativeToolTip": "ParameterService\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAawCMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:10:36.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\appsettings.json",
+              "RelativeDocumentMoniker": "ParameterService\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ParameterService\\ParameterService\\appsettings.json",
+              "RelativeToolTip": "ParameterService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T16:09:12.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

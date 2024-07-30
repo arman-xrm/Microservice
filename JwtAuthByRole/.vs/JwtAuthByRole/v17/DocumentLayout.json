@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|c:\\users\\user\\source\\repos\\jwtauthbyrole\\jwtauthbyrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|solutionrelative:jwtauthbyrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|c:\\users\\user\\source\\repos\\jwtauthbyrole\\jwtauthbyrole\\middleware\\rolemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|solutionrelative:jwtauthbyrole\\middleware\\rolemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|c:\\users\\user\\source\\repos\\jwtauthbyrole\\jwtauthbyrole\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|solutionrelative:jwtauthbyrole\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|c:\\users\\user\\source\\repos\\jwtauthbyrole\\jwtauthbyrole\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|solutionrelative:jwtauthbyrole\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|c:\\users\\user\\source\\repos\\jwtauthbyrole\\jwtauthbyrole\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|solutionrelative:jwtauthbyrole\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|c:\\users\\user\\source\\repos\\jwtauthbyrole\\jwtauthbyrole\\models\\requestmodels\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|solutionrelative:jwtauthbyrole\\models\\requestmodels\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|c:\\users\\user\\source\\repos\\jwtauthbyrole\\jwtauthbyrole\\common\\utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|solutionrelative:jwtauthbyrole\\common\\utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|c:\\users\\user\\source\\repos\\jwtauthbyrole\\jwtauthbyrole\\services\\integration\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|solutionrelative:jwtauthbyrole\\services\\integration\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|c:\\users\\user\\source\\repos\\jwtauthbyrole\\jwtauthbyrole\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|solutionrelative:jwtauthbyrole\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|c:\\users\\user\\source\\repos\\jwtauthbyrole\\jwtauthbyrole\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|solutionrelative:jwtauthbyrole\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|c:\\users\\user\\source\\repos\\jwtauthbyrole\\jwtauthbyrole\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|solutionrelative:jwtauthbyrole\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|c:\\users\\user\\source\\repos\\jwtauthbyrole\\jwtauthbyrole\\data\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EA2EFB-3AC3-490A-AE08-CBF194BE2090}|JwtAuthByRole\\JwtAuthByRole.csproj|solutionrelative:jwtauthbyrole\\data\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Program.cs",
+              "RelativeDocumentMoniker": "JwtAuthByRole\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Program.cs",
+              "RelativeToolTip": "JwtAuthByRole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:03:42.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Middleware\\RoleMiddleware.cs",
+              "RelativeDocumentMoniker": "JwtAuthByRole\\Middleware\\RoleMiddleware.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Middleware\\RoleMiddleware.cs",
+              "RelativeToolTip": "JwtAuthByRole\\Middleware\\RoleMiddleware.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:03:05.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "JwtAuthByRole\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Controllers\\UserController.cs",
+              "RelativeToolTip": "JwtAuthByRole\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:01:25.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtAuthByRole\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtAuthByRole\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:59:59.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "JwtAuthByRole\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "JwtAuthByRole\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:59:13.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Models\\RequestModels\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "JwtAuthByRole\\Models\\RequestModels\\LoginRequestModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Models\\RequestModels\\LoginRequestModel.cs",
+              "RelativeToolTip": "JwtAuthByRole\\Models\\RequestModels\\LoginRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:58:38.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtUtils.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Common\\Utils\\JwtUtils.cs",
+              "RelativeDocumentMoniker": "JwtAuthByRole\\Common\\Utils\\JwtUtils.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Common\\Utils\\JwtUtils.cs",
+              "RelativeToolTip": "JwtAuthByRole\\Common\\Utils\\JwtUtils.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:57:37.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Services\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "JwtAuthByRole\\Services\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Services\\Interface\\IUserService.cs",
+              "RelativeToolTip": "JwtAuthByRole\\Services\\Interface\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:50:22.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\appsettings.json",
+              "RelativeDocumentMoniker": "JwtAuthByRole\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\appsettings.json",
+              "RelativeToolTip": "JwtAuthByRole\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T14:49:17.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Data\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "JwtAuthByRole\\Data\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Data\\Entity\\User.cs",
+              "RelativeToolTip": "JwtAuthByRole\\Data\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:44:48.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Services\\Integration\\UserService.cs",
+              "RelativeDocumentMoniker": "JwtAuthByRole\\Services\\Integration\\UserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Services\\Integration\\UserService.cs",
+              "RelativeToolTip": "JwtAuthByRole\\Services\\Integration\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:44:35.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JwtAuthByRole\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JwtAuthByRole\\JwtAuthByRole\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JwtAuthByRole\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:33:35.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
